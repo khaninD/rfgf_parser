@@ -1,0 +1,8 @@
+{
+  "name": "rfgf",
+  "version": "1.0.0",
+  "description": "get and save data to excel",
+  "main": "index.js",
+  "author": "Khanin D.O.",
+  "license": "MIT"
+}
