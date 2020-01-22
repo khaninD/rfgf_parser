@@ -4,5 +4,16 @@
   "description": "get and save data to excel",
   "main": "index.js",
   "author": "Khanin D.O.",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "decode-html": "^2.0.0",
+    "excel4node": "^1.7.2",
+    "iconv-lite": "^0.5.0",
+    "node-fetch": "^2.6.0",
+    "node-html-parser": "^1.1.18",
+    "windows-1251": "^1.0.0"
+  }
 }
