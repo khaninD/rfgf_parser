@@ -1,4 +1,9 @@
-Версия node - 10.16.1
-Для запуска:
-yarn
-yarn start
+
+# Версия nodejs: 10.16.1
+
+# Установка и парсинг:
+  ```sh
+$ git clone https://github.com/khaninD/rfgf_parser.git
+$ yarn
+$ yarn start
+```
